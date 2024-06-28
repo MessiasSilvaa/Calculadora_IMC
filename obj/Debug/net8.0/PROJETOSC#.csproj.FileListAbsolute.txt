@@ -1,0 +1,14 @@
+C:\Users\messi\PROJETOSC#\bin\Debug\net8.0\PROJETOSC#.exe
+C:\Users\messi\PROJETOSC#\bin\Debug\net8.0\PROJETOSC#.deps.json
+C:\Users\messi\PROJETOSC#\bin\Debug\net8.0\PROJETOSC#.runtimeconfig.json
+C:\Users\messi\PROJETOSC#\bin\Debug\net8.0\PROJETOSC#.dll
+C:\Users\messi\PROJETOSC#\bin\Debug\net8.0\PROJETOSC#.pdb
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.AssemblyInfoInputs.cache
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.AssemblyInfo.cs
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.csproj.CoreCompileInputs.cache
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.dll
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\refint\PROJETOSC#.dll
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.pdb
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\PROJETOSC#.genruntimeconfig.cache
+C:\Users\messi\PROJETOSC#\obj\Debug\net8.0\ref\PROJETOSC#.dll
